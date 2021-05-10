@@ -1,5 +1,10 @@
 # Diplomová práca: Experimentálny rozpoznávač spontánnej reči
 
+#### Autor: Bc. Andrej Kapusta
+#### Školiteľ: RNDr. Marek Nagy, PhD.
+
+---
+
 ## Popis práce
 V tejto práci sa zameriavame na vytvorenie experimentálneho rozpoznávaču spontánnej reči v spolupráci s Transparency International Slovensko (TISK). Vytváraný rozpoznávač má byť využitý na prepis zvukových nahrávok do textovej podoby. Po analýze možností riešenia sme sa rozhodli pre dosiahnutie nášho cieľa využiť open-source nástroj Kaldi, ktorý je zameraný na automatické rozpoznávanie reči a vo svojom jadre využíva skryté markovovské modely (HMM) a hlboké neurónové siete (DNN).
 
