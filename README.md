@@ -34,5 +34,5 @@ V nasledujúcich častiach uvádzame zadefinované ciele pre predošlé a nasled
 
 ## Obsah repozitáru
 - **Diplomovka_Andrej_Kapusta.pdf** - PDF dokument diplomovej práce
-- **Experimenty** - priečinok, ktorý obsahuje archívy čiastočných Kaldi projektov, ktoré boli súčasťou rôznych experimentov
+- **Diplomovy_seminar_1.pdf** - PDF dokument s prezentáciou výsledkov na Diplomovy seminar 1
 - **Utility** - priečinok, ktorý obsahuje pomocné programy a skripty použité pri experimentoch
